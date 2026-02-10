@@ -1,6 +1,6 @@
-# ASI Cancer Treatment Intelligence System
+# Bio-Multi-Omics Cancer Pipeline
 
-A comprehensive multi-omics analysis pipeline designed for therapeutic target identification and drug candidate recommendation using TCGA (The Cancer Genome Atlas) data.
+A comprehensive multi-omics analysis and therapeutic discovery pipeline designed for target identification and drug candidate recommendation using real-world TCGA (The Cancer Genome Atlas) datasets.
 
 ## Features
 
