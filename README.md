@@ -1,5 +1,7 @@
 # Bio-Multi-Omics Cancer Pipeline
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 A comprehensive multi-omics analysis and therapeutic discovery pipeline designed for target identification and drug candidate recommendation using real-world TCGA (The Cancer Genome Atlas) datasets.
 
 ## Features
